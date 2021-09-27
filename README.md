@@ -17,4 +17,5 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
   
 </div>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={youngbinjoung}&show_icons=true&theme={dark})](https://github.com/{youngbinjoung}/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=youngbinjoung&show_icons=true&theme=dark)](https://github.com/{youngbinjoung}/github-readme-stats) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngbinjoung&show_icons=true&theme=dark)
