@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=youngbinjoung&theme=dark&show_icons=true)
 </div>
-<div>![GitHub stats](https://github-readme-stats.vercel.app/api?username=youngbinjoung&theme=dark&show_icons=true)</div>
 
 
