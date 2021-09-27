@@ -1,5 +1,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=youngbinjoung&theme=radical&show_icons=true)
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20YoungBinJoung%20%20&height=200&fontSize=100)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngbinjounga&layout=compact)](https://github.com/youngbinjoung/github-readme-stats)
 <h3 align="center">🛠️tech Stack🛠️</h3>
 <p align="center">Techs I've used at least once</p>
             
