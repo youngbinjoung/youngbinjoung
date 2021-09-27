@@ -1,6 +1,6 @@
 <h1 align="center">YoungBinJoung</h1>
-<font size="20px>🛠️tech Stack🛠️</font>
-<font size=5>내용</font>
+<a align="center">🛠️tech Stack🛠️</a>
+<p align="center">Techs I've used at least once</p>
             
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
