@@ -1,4 +1,4 @@
-![header](https://capsule-render.cercel.app/api?type=slice&color=auto&height=300&section=header&text=YoungBinJoung&fontsize=90)
+![header](https://capsule-render.ercel.app/api?type=slice&color=auto&height=300&section=header&text=YoungBinJoung&fontsize=90)
 <h3 align="center">🛠️tech Stack🛠️</h3>
 <p align="center">Techs I've used at least once</p>
             
