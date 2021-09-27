@@ -19,3 +19,4 @@
 </div>
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=youngbinjoung&show_icons=true&theme=dark)](https://github.com/{youngbinjoung}/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngbinjoung&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngbinjoung&layout=compact)](https://github.com/youngbinjoung/github-readme-stats)
