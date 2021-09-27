@@ -1,5 +1,5 @@
 <h1 align="center">YoungBinJoung</h1>
-<a align="center">🛠️tech Stack🛠️</a>
+<h3 align="center">🛠️tech Stack🛠️</h3>
 <p align="center">Techs I've used at least once</p>
             
 <div align="center">
