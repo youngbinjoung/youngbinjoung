@@ -1,1 +1,1 @@
-<h6>YoungBinJoung</h6>
+<h3 align="center">YoungBinJoung</h3>
