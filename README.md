@@ -1,5 +1,5 @@
 <h1 align="center">YoungBinJoung</h1>
-<p align="center" font-size="20px">🛠️tech Stack🛠️</p>
+<p align="center"><font-size="20px>🛠️tech Stack🛠️</font-size></p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
