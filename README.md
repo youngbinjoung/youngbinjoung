@@ -1,4 +1,5 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20YoungBinJoung%20%20&height=200&fontSize=100)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=youngbinjoung&theme=dark&show_icons=true)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20YoungBinJoung%20%20&height=200&fontSize=100)
 <h3 align="center">🛠️tech Stack🛠️</h3>
 <p align="center">Techs I've used at least once</p>
             
@@ -16,6 +17,6 @@
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
   
-</div> -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=youngbinjoung&theme=dark&show_icons=true)
+</div>
+
 
