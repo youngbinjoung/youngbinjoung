@@ -1,4 +1,4 @@
-![header](https://capsule-render.ercel.app/api?type=slice&color=auto&height=300&section=header&text=YoungBinJoung&fontsize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20YoungBinJoung%20%20&height=200&fontSize=100)
 <h3 align="center">🛠️tech Stack🛠️</h3>
 <p align="center">Techs I've used at least once</p>
             
