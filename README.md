@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=youngbinjoung&theme=radical&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=youngbin joung&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngbinjoung)](https://github.com/youngbinjoung/github-readme-stats)
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20YoungBinJoung%20%20&height=200&fontSize=100)
 <h3 align="center">🛠️tech Stack🛠️</h3>
